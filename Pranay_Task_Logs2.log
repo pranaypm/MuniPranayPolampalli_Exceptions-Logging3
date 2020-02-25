@@ -1,0 +1,28 @@
+2020-02-25 17:36:42 INFO  Main_class:19 - Creating the Object for Building Estimation
+2020-02-25 17:36:42 INFO  Building_cost_Estimation:18 - Type of material : standard house
+ Area of House : 20
+2020-02-25 17:36:42 INFO  Main_class:23 - The cost price for house is :24000
+2020-02-25 17:36:42 INFO  Building_cost_Estimation:18 - Type of material : house
+ Area of House : 20
+2020-02-25 17:36:42 WARN  Building_cost_Estimation:38 - Material is no in option , Please choose Again 
+2020-02-25 17:36:42 ERROR Main_class:28 - The value of Area is invalid
+2020-02-25 17:36:42 INFO  Main_class:31 - Creating the Object for Interest
+2020-02-25 17:36:42 INFO  Main_class:34 - Accessing the Simple Interest Method 1st time
+2020-02-25 17:36:42 INFO  Calculate_interest:14 - Principle amount : 1000.0
+Rate of Interest : 6.0
+Time period : 
+2020-02-25 17:36:42 INFO  Calculate_interest:18 - Total amount :120
+2020-02-25 17:36:42 INFO  Main_class:37 - The value of interest is :120
+2020-02-25 17:36:42 INFO  Main_class:39 - Accessing the Simple Interest Method 2nd time
+2020-02-25 17:36:42 ERROR Calculate_interest:23 - The values sent to function are 0 or less in Simple interest Calculation 
+2020-02-25 17:36:42 INFO  Main_class:42 - The value of interest is :0
+2020-02-25 17:36:42 INFO  Main_class:44 - Accessing the Compound Interest Method 1st time
+2020-02-25 17:36:42 INFO  Calculate_interest:35 - Principle amount : 2000
+Rate of Interest : 5.0
+No of Years : 8
+Time period : 
+2020-02-25 17:36:42 INFO  Calculate_interest:38 - Total amount :3637
+2020-02-25 17:36:42 INFO  Main_class:47 - The value of interest is :3637
+2020-02-25 17:36:42 INFO  Main_class:49 - Accessing the Compound Interest Method 2nd  time
+2020-02-25 17:36:42 ERROR Calculate_interest:43 - The values sent to function are 0 or less in compound Interest Calculation 
+2020-02-25 17:36:42 INFO  Main_class:52 - The value of interest is :0
